@@ -16,4 +16,4 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=space-ctrl&" alt="space-ctrl" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaBarakAstro&langs_count=6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Space-Ctrl&langs_count=6&layout=compact)
