@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Rudy</h1>
 <h3 align="center">A Retard</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=space-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="space-ctrl" /> </p>
 
 - 🌱 I’m currently learning **Everything**
 
