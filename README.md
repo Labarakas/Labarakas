@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Rudy</h1>
-<h3 align="center">A Retard</h3>
+<h3 align="center">A "Engineer"</h3>
 
 
 - 🌱 I’m currently learning **Everything**
